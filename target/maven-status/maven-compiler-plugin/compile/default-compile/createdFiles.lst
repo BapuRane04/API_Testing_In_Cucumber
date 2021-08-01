@@ -1,0 +1,5 @@
+pojo\AddPlaceRequestBody.class
+pojo\DeletePlaceRequestBody.class
+pojo\LocationRequestBody.class
+pojo\UpdatePlaceRequestBody.class
+GoogleAPI\BDDFramework\App.class
